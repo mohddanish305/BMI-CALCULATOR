@@ -1,4 +1,19 @@
 # 🧮 BMI Calculator App (Flutter)
+## 🖼️ Screenshots
+
+### Screenshot 1
+![Screenshot 1](Screenshot/Screenshot1.png)
+
+### Screenshot 2
+![Screenshot 2](Screenshot/Screenshot2.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot/Screenshot3.png)
+
+### Screenshot 4
+![Screenshot 4](Screenshot/Screenshot4.png)
+
+
 
 This is a **BMI (Body Mass Index) Calculator App** built using Flutter as an assignment project.
 
